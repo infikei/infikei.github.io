@@ -1,17 +1,17 @@
 function link_home() {
-    location.href="https://infikei.github.io/home/new";
+    location.href="https://infikei.github.io";
 }
 function area_profile() {
-    location.href="https://infikei.github.io/home/new#profile";
+    location.href="https://infikei.github.io#profile";
 }
 function area_channels() {
-    location.href="https://infikei.github.io/home/new#channels";
+    location.href="https://infikei.github.io#channels";
 }
 function area_pages() {
-    location.href="https://infikei.github.io/home/new#pages";
+    location.href="https://infikei.github.io#pages";
 }
 function area_contact() {
-    location.href="https://infikei.github.io/home/new#contact";
+    location.href="https://infikei.github.io#contact";
 }
 function link_talk() {
     window.open("https://pf.kakao.com/_xaeEyT");
