@@ -1,2 +1,5 @@
 # infikei.github.io
-This project is for my homepage.
+
+### Hi, this project is for my homepage :)
+
+Have a nice day!
